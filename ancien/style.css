@@ -1,0 +1,73 @@
+body{font-family: 'Kameron', serif;}
+a{text-decoration: none; color: black;}
+
+.nom{float: left; width: 20%; text-align: center; background-color: #8FBC8F; border-bottom:2px solid #8FBC8F;}
+.home{float: left; width: 20%; text-align: center;border-bottom:2px solid #8FBC8F;}
+.gallery{float: left; width: 20%; text-align: center;border-bottom:2px solid #8FBC8F;}
+.blog{float: left; width: 20%; text-align:  center;border-bottom:2px solid #8FBC8F;}
+.contact{float: left; width: 20%; text-align: center;border-bottom:2px solid #8FBC8F;}
+.imagehome{position: absolute; width:99%; margin-top: 10px;  text-align: center;}
+.textcache{color: white}
+.imagenuage{position: absolute; width: 99%; margin-top: 100px;  margin-left: auto; text-align: center}
+.imagegalerie{width:80%; margin:auto;}
+.imagesenegal{position: absolute; width:99%; margin-top: 0px;  text-align: center;}
+.imagestop{position: absolute; width:99%; margin-top: 0px;  text-align: center;}
+.imageBL{width: 920%; position: absolute; text-align: center; margin-top: 3%}
+.imagebourg{height: 87%; width: 320%; position: absolute; margin-top: 4%}
+.imageistanbul{position: absolute; width:99%; margin-top: 0px;  text-align: center;}
+.imagevitre{position: absolute; width:99%; margin-top: 40px;  text-align: center;}
+.textenuage{width:850px;margin-bottom: 40px; margin: auto; text-align: center;}
+.textesenegal{width:850px;margin-bottom: 40px; margin-left: 12.5%; text-align: left;}
+.textestop{width:100%;margin-bottom: 40px; margin-left: 0%; text-align: center;}
+/*.textestop{width:100%;float:left;margin-top: 60px; margin-bottom: 40px; text-align: center;}*/
+.texteBL{width: 6.5%; float:left;margin-top: 3%; margin-bottom: 0px; text-align: right}
+.textebourg{width: 14.7%; float:left; margin-top: 0px; margin-bottom: 40px; text-align: right}
+.texteistanbul{width:800px;margin-bottom: 40px; margin: auto; text-align: left;}
+.textenuit{width:800px;margin-bottom: 40px; margin-left: 11.5%; text-align: left;}
+.textesmoke{width:860px;margin-bottom: 0px; margin-left:20%; text-align: right;}
+.textevitre{width:800px;margin-bottom: 40px; margin: auto; text-align: center;}
+.textcontact{width:100%; margin: auto; text-align: center; margin-top: 100px; position: absolute; font-size: 1.7em; color: grey;}
+
+.stop25{margin-bottom: 40px;margin-top: 40px}
+.stop5{margin-bottom: 40px}
+.stop6{margin-bottom: 40px}
+
+.Nuage1{margin-right: 20px} 
+.Nuage2{margin-left: 20px}
+.Nuage3{margin-right: 20px; margin-top: 40px}
+.Nuage4{margin-left: 20px; margin-top: 40px}
+.Nuage5{margin-right: 20px; margin-top: 40px;margin-bottom: 40px}
+.Nuage6{margin-left: 20px; margin-top: 40px;margin-bottom: 40px}
+
+.gal1{float:left;margin-top: 13%;margin-right: 20px;background-size:100%; background-image: url(galerie1NB.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal2{float:left;margin-top: 13%;margin-left: 20px;background-size:100%; background-image: url(galerie2.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal3{float:left;margin-right: 20px;margin-top:40px;background-size:100%; background-image: url(galerie3NB.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal4{float:left;margin-left:20px; margin-top:40px;background-size:100%; background-image: url(galerie4NB.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal5{float:left;margin-right: 20px; margin-top:40px;background-size:100%; background-image: url(galerie5NB.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal6{float:left;margin-left: 20px; margin-top:40px;background-size:100%; background-image: url(galerie6NB.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal7{float:left;margin-right: 20px; margin-top:40px;background-size:100%; background-image: url(galerie7NB.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal8{float:left;margin-left: 20px; margin-top:40px;background-size:100%; background-image: url(galerie8NB.jpg); width:45%; height:11%; background-repeat: no-repeat;}
+.gal1:hover{background-image:url(galerie1.jpg)}
+.gal2:hover{background-image:url(galerie2NB.jpg)}
+.gal3:hover{background-image:url(galerie3.jpg)}
+.gal4:hover{background-image:url(galerie4.jpg)}
+.gal5:hover{background-image:url(galerie5.jpg)}
+.gal6:hover{background-image:url(galerie6.jpg)}
+.gal7:hover{background-image:url(galerie7.jpg)}
+.gal8:hover{background-image:url(galerie8.jpg)}
+
+.BL1{float:left;margin-right: 20px}
+.BL2{float:left;margin-left: 10px; margin-right: 20px}
+
+.bourg1{float:left; margin-left: 10px; margin-right: 20px; height:100%;}
+.bourg2{float:left; margin-right: 20px; height:100%;}
+
+
+.sen1{margin-top: 40px}
+.sen2{margin-top: 40px}
+.sen3{margin-top: 40px; margin-bottom: 40px}
+
+.entete{background-color: #FFFFFF;margin-top: 2px; position: fixed; width:100%; font-family: 'Kameron', serif;}
+
+
+.citation{font-size: 1.7em; color: grey; text-align: left;}

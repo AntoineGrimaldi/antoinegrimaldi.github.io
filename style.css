@@ -1,0 +1,43 @@
+@font-face {
+  font-family: 'Syne';
+  font-weight: 400;
+  src: url(Syne-Regular.woff) format('woff');
+}
+@font-face {
+  font-family: 'SyneBold';
+  font-style: bold;
+  font-weight: 400;
+  src: url(Syne-Bold.woff) format('woff');
+}
+@font-face {
+  font-family: 'SyneIt';
+  font-weight: 400;
+  src: url(Syne-Italic.woff) format('woff');
+}
+@font-face {
+  font-family: 'SyneMono';
+  font-weight: 400;
+  src: url(Syne-Mono.woff) format('woff');
+}
+
+html, body {background-color: black; margin:0; padding:0; font-family: 'Syne'; font-style: bold;}
+svg { position:fixed; top:0; left:0; width:100vw; right:100vh; }
+a{text-decoration:none; color:#0000D4;}
+h2{position: fixed; font-family: SyneMono; font-size: 2.75vw; color:#0000D4; opacity:0.8;}
+h3{position: fixed; font-size:1.5vw; font-family: 'SyneMono'; color:#0000D4;}
+p{position:fixed; font-size: 1.1vw; color:yellow; opacity:0.6;}
+
+.chepe{transition: 1.5s; opacity: 0.6;}
+.chepe:hover {transition: 1.5s; opacity: 1;}
+.taixte{font-family: SyneBold; transition: 2s; opacity: 0;}
+.taixton{font-family:SyneBold; fill:#0000D4; font-size:5.5vw}
+#scienceshp:hover + #sciencetxt{opacity:1}
+#photoshp:hover + #phototxt{opacity:1}
+#voyageshp:hover + #voyagetxt{opacity:1}
+#contactshp:hover + #contacttxt{opacity:1}
+#indexi:hover + #indtxt{opacity:1}
+.stab{transition: opacity 1s;}
+.stab:hover{text-decoration: underline; opacity:1;}
+.stab2{ transition:1s; opacity:0.6;}
+.stab2:hover{text-decoration: underline; opacity:1;}
+
